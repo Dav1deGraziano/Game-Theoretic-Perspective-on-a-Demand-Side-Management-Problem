@@ -1,4 +1,4 @@
-# Game-Theoretic Perspective on Demand-Side Management
+# Game-Theoretic Perspective on a Demand-Side Management Problem
 
 Dear reader,  
 I am thrilled to briefly guide you through this project, which deals with a game-theoretic perspective on a Demand-Side Management problem. Specifically, a large number of customers aim at satisfying their energy demand while minimizing their own procurement cost. The problem set takes into account various constraints and features high computational cost. In the [report](DSM_Game.pdf), you will find:  
@@ -12,3 +12,10 @@ As concerns the computation, the [`.m` file](MATLAB_Code_DSM.m) contains a short
 Thank you very much for your attention and I hope you will enjoy this project.  
 
 Davide!
+
+
+## Projected Gradient Descent Update
+![Video 1](Linkedin Post GTC - Iteration Update.gif)
+
+## Nash Equilibrium Approaching vs Iteration Count
+![Video 2](Linkedin Post GTC - Distance WRT NE.gif)
