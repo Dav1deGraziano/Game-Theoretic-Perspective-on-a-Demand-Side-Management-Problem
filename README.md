@@ -1,7 +1,7 @@
 # Game-Theoretic Perspective on a Demand-Side Management Problem
 
 Dear reader,  
-I am thrilled to briefly guide you through this project, which deals with a game-theoretic perspective on a Demand-Side Management problem. Specifically, a large number of customers aim at satisfying their energy demand while minimizing their own procurement cost. The problem set takes into account various constraints and features high computational cost. In the [report](DSM_Game.pdf), you will find:  
+I am thrilled to briefly guide you through this project, which deals with a game-theoretic perspective on a Demand-Side Management problem. Specifically, a large number of customers aim at satisfying their energy demand while minimising their own procurement cost. The problem set takes into account various constraints and features high computational cost. In the [report](DSM_Game.pdf), you will find:  
 - the conditions for which the general problem can be reduced to a convex-game framework;  
 - an energetic interpretation of the problem via Lagrange Mechanics and the subsequent calculation of an overall potential function;  
 - the computation of the unique Nash Equilibrium strategy profile via Projected Gradient Descent.  
