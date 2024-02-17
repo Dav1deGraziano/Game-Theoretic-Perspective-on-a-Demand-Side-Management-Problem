@@ -7,7 +7,7 @@ I am thrilled to briefly guide you through this project, which deals with a game
 - the computation of the unique Nash Equilibrium strategy profile via Projected Gradient Descent.  
 - brief comments on the result  
 
-As concerns the computation, the [`.m` file](MATLAB_Code_DSM.m) contains a short extract of the MatLab code where the Projected Gradient Descent is implemented. The other [`.csv` files] contain the data of a specific instance of the problem (beware: they are necessary for the `.m` file to run properly).  
+As concerns the computation, the [`.m` file](MATLAB_Code_DSM.m) contains a short extract of the MatLab code where the Projected Gradient Descent is implemented. The other `.csv` files contain the data of a specific instance of the problem (beware: they are necessary for the `.m` file to run properly).  
 
 Thank you very much for your attention and I hope you will enjoy this project.  
 
