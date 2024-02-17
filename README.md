@@ -15,7 +15,7 @@ Davide!
 
 
 ## Projected Gradient Descent Update
-![Video 1](Linkedin Post GTC - Iteration Update.gif)
+[Video 1](Linkedin Post GTC - Iteration Update.gif)
 
 ## Nash Equilibrium Approaching vs Iteration Count
-![Video 2](Linkedin Post GTC - Distance WRT NE.gif)
+[Video 2](Linkedin Post GTC - Distance WRT NE.gif)
